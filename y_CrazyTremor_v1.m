@@ -2,7 +2,7 @@ function [  ] = y_CrazyTremor_v1(  )
 %
 % CrazyTremor for triggered tremor analysis
 % Please see online Manual for detailed description of the software:
-% http://www.kevinchao.com/CrazyTremor
+% http://www.kevinchao.com/crazytremor
 %
 % version 1.1 - Nov. 13, 2017
 % version 1.0 - Sep. 24, 2015
